@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  suveyapp:
+    image: ${DOCKER_REGISTRY-}suveyapp
+    build:
+      context: .
+      dockerfile: Dockerfile

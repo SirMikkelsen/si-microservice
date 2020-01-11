@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuveyApp", "SuveyApp.csproj", "{8CB56C4B-0D16-474F-86BE-194F45F11409}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{01A770C6-1C4D-4B40-AB76-228912D0E32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CB56C4B-0D16-474F-86BE-194F45F11409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB56C4B-0D16-474F-86BE-194F45F11409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB56C4B-0D16-474F-86BE-194F45F11409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB56C4B-0D16-474F-86BE-194F45F11409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A770C6-1C4D-4B40-AB76-228912D0E32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A770C6-1C4D-4B40-AB76-228912D0E32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A770C6-1C4D-4B40-AB76-228912D0E32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A770C6-1C4D-4B40-AB76-228912D0E32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DEDF264-9407-491B-9AB7-ED052B0C9DC9}
+	EndGlobalSection
+EndGlobal
